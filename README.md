@@ -36,10 +36,6 @@ The Automated Resume Screening and Parsing System is a sophisticated tool design
 - **Natural Language Processing (NLP)**: spaCy, NLTK
 - **Machine Learning**: scikit-learn, TensorFlow, PyTorch
 - **Data Extraction and Parsing**: Regular expressions, PyPDF2, python-docx
-- **Backend Development**: Python, Django, Flask
-- **Frontend Development**: React, Angular
-- **Database**: PostgreSQL, MongoDB
-- **Cloud Services**: AWS, Google Cloud Platform (GCP)
 - **Version Control**: Git, GitHub
 
 #### Project Phases:
